@@ -1,4 +1,4 @@
-#02- Escreva um programa que exibe o resultado de 2a X 3b, em que  vale 3 e b vale 5
+#02- Escreva um programa que exibe o resultado de 2a X 3b, em que  vale 3 e b vale 5.
 
 a = 3
 b = 5
