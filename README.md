@@ -1,2 +1,2 @@
 # Lista2_Phyton
-Lista de exercícios
+Lista de exercícios desenvolvida por Caio Vinicius
