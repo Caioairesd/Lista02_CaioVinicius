@@ -6,5 +6,5 @@ Pedacos = int(  input("Quantos pedaços o seu bolo tem?"))
 Digeridos = int( input("Quantos pedaços você comeu?"))
 
 Resto =Pedacos - Digeridos 
-print ("O seu bolo tem ",Pedacos,"pedaços,","Você comeu ",Digeridos,"Restam, ",Resto, "pedaços")
+print ("O seu bolo tem",Pedacos,"pedaços,","Você comeu",Digeridos,"pedaços, Restam ",Resto, "pedaços")
 
